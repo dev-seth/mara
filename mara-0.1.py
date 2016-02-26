@@ -11,7 +11,6 @@ print('MARA\nThe Metal Archives Parser\nVer. 0.1')
 
 # functions
 
-
 def FixFileName(oldName):
     newName = oldName.replace('/', '-')
     return newName
